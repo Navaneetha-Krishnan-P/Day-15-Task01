@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    column-gap: 150px;
+    padding-left: 100px;
+    padding-top: 70px;
+    background-color: steelblue;
+    color: white;
+}
+.row1{color: white;
+
+}
+.row2{
+    color: whitesmoke;
+}
